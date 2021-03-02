@@ -10,7 +10,7 @@ class Request extends React.Component {
             <div className="container form ">
                 <div className="row">
                     <div className="col-4">
-                        <img src="https://dgm.s3.us-east-2.amazonaws.com/Logotip.png"   width="150" height="100" className="ml-5 book-logo" alt="logo"/>
+                        <img src="https://dgmimages.s3.us-east-2.amazonaws.com/images/Logotip.png"   width="150" height="100" className="ml-5 book-logo" alt="logo"/>
                     </div>
 
                     <div className="col-6 mt-4 main">

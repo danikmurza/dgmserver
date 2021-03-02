@@ -21,16 +21,16 @@ function Footer() {
         <div className="foot">
             <div className="column">
                 <Link to="/jump_start" className="pages" onClick={()=>scrollToTop()}>
-                    <img src="https://dgm.s3.us-east-2.amazonaws.com/battery.png" width="230" height="191" alt=""/>
+                    <img src="https://dgmimages.s3.us-east-2.amazonaws.com/images/battery.png" width="230" height="191" alt=""/>
                 </Link>
                 <Link to="/lock_out" className="pages" onClick={()=>scrollToTop()}>
-                    <img src="https://dgm.s3.us-east-2.amazonaws.com/car-key.png" width="230" height="191" alt=""/>
+                    <img src="https://dgmimages.s3.us-east-2.amazonaws.com/images/car-key.png" width="230" height="191" alt=""/>
                 </Link>
                 <Link to="/tire_service" className="pages" onClick={()=>scrollToTop()}>
-                    <img src="https://dgm.s3.us-east-2.amazonaws.com/flat-tire.png" width="230" height="191" alt=""/>
+                    <img src="https://dgmimages.s3.us-east-2.amazonaws.com/images/flat-tire.png" width="230" height="191" alt=""/>
                 </Link>
                 <Link to="/gas_delivery" className="pages" onClick={()=>scrollToTop()}>
-                    <img src="https://dgm.s3.us-east-2.amazonaws.com/gasoline.png" width="230" height="191" alt=""/>
+                    <img src="https://dgmimages.s3.us-east-2.amazonaws.com/images/gasoline.png" width="230" height="191" alt=""/>
                 </Link>
             </div>
             <div className="cont2">
@@ -42,14 +42,14 @@ function Footer() {
                     <div className="container text-md-center">
 
                         <div className="mb-4">
-                            <img src="https://dgm.s3.us-east-2.amazonaws.com/visa.png" width="60" height="40" alt="" className=" mb-2"/>
-                            <img src="https://dgm.s3.us-east-2.amazonaws.com/mastercard.svg" width="80" height="40" alt="" className=" mb-2"/>
-                            <img src="https://dgm.s3.us-east-2.amazonaws.com/discover.svg" width="80" height="40" alt="" className=" mb-2"/>
-                            <img src="https://dgm.s3.us-east-2.amazonaws.com/american-express.svg" width="80" height="40" alt="american" className=" mb-2"/>
+                            <img src="https://dgmimages.s3.us-east-2.amazonaws.com/images/visa.png" width="60" height="40" alt="" className=" mb-2"/>
+                            <img src="https://dgmimages.s3.us-east-2.amazonaws.com/images/mastercard.svg" width="80" height="40" alt="" className=" mb-2"/>
+                            <img src="https://dgmimages.s3.us-east-2.amazonaws.com/images/discover.svg" width="80" height="40" alt="" className=" mb-2"/>
+                            <img src="https://dgmimages.s3.us-east-2.amazonaws.com/images/american.svg" width="80" height="40" alt="american" className=" mb-2"/>
                         </div>
 
                         <div>
-                            <img src="https://dgm.s3.us-east-2.amazonaws.com/Logotip.png" width="380" height="220" alt="" className=" mb-2" />
+                            <img src="https://dgmimages.s3.us-east-2.amazonaws.com/images/Logotip.png" width="380" height="220" alt="" className=" mb-2" />
                         </div>
                         <Link to="/booking">
                         <Button variant="danger" className="booking mb-4" onClick={()=>scrollToTop()}>BOOK NOW</Button>

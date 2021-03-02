@@ -15,7 +15,7 @@ function TireService() {
                 </h3>
             </div>
             <div className="jumbotron jumba">
-                <img src="https://dgm.s3.us-east-2.amazonaws.com/tire-service.jpg" className="card-img-top jump-image" alt="jump"/>
+                <img src="https://dgmimages.s3.us-east-2.amazonaws.com/images/tire-service.jpg" className="card-img-top jump-image" alt="jump"/>
                 <h6 className="display-3 pt-2 text-sm-center pb-4">Tire Service</h6>
                 <p className="lead">If you've experienced a tire blow out or a tire puncture and need to put on your car's spare tire, our roadside assistance technicians will expertly install your car's available spare tire to replace your flat tire.
 

@@ -14,7 +14,7 @@ function LockOut() {
                 </h3>
             </div>
             <div className="jumbotron jumba">
-                <img src="https://dgm.s3.us-east-2.amazonaws.com/lock-out.jpg" className="card-img-top jump-image" alt="jump"/>
+                <img src="https://dgmimages.s3.us-east-2.amazonaws.com/images/lock-out.jpg" className="card-img-top jump-image" alt="jump"/>
                 <h6 className="display-3 pt-2 text-sm-center pb-4">Lock-out</h6>
                 <p className="lead">Our services are available 24 hours a day, 7 days a week for the convenience of our customers. Upon receiving your call, we will head to your location as quickly as possible to get you back on the road.
 

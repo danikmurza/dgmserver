@@ -14,7 +14,7 @@ function JumpStart() {
                 </h3>
             </div>
             <div className="jumbotron jumba">
-                <img src="https://dgm.s3.us-east-2.amazonaws.com/jump-start.jpg" className="card-img-top jump-image" alt="jump"/>
+                <img src="https://dgmimages.s3.us-east-2.amazonaws.com/images/jump-start.jpg" className="card-img-top jump-image" alt="jump"/>
                 <h6 className="display-3 pt-2 text-sm-center pb-4">Jump Start Services</h6>
                 <p className="lead">Even the best and most modern batteries can experience technical difficulties from time to time, leaving your battery without any power. On other occasions, you may have left your lights on, interior lights left on, cold weather  or there is a fault in the charging system and your car will not turn over.  No matter the cause, having a dead car battery can derail your plans and leave you stranded.
                     When it comes to vehicle jump start service, there is no one that is more dependable, fast, efficient, and friendly than us.

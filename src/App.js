@@ -23,6 +23,7 @@ function App() {
                 <Route path="/tire_service" component={TireService}/>
                 <Route path="/booking" component={Booking}/>
                 <Route path="/request" component={Request}/>
+                <Route />
                 <Redirect from="/*" to="/" />
             </Switch>
             <Footer/>
